@@ -12,6 +12,8 @@ Welcome to my GitHub profile!
 I'm a Data Engineer & Analyst with a strong foundation in information systems and extensive hands-on experience in data analysis, visualization, and pipeline automation. With expertise in Python, SQL, and various analytical tools, I specialize in transforming data into actionable insights and creating impactful dashboards. Passionate about leveraging technology to drive innovation and enhance decision-making, I thrive in collaborative environments and enjoy solving complex data challenges.
 
 ## 💼 Experience Highlights
+- **🔧 Data Engineer** – *Mars Neuro Tek*  
+  Present..
 
 - **🔧 Data Engineer & Analyst** – *San Diego State University*  
   Developed ETL pipelines and dashboards, reducing data processing time by 30%.
